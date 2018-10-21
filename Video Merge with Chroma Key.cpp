@@ -110,7 +110,7 @@ int main(int, char**)
 //*/
 
 /*//Main Code Verse 2
-/// Global Variables for RGB control 
+///Â GlobalÂ VariablesÂ for RGB control 
 const int red_low_max = 255;
 const int red_high_max = 255;
 int red_low, red_high;
@@ -207,7 +207,7 @@ void chromakey(const Mat under, const Mat over, Mat *dst, const Scalar& color)
 //*/
 
 //Main Code Verse 3
-/// Global Variables for control 
+///Â GlobalÂ VariablesÂ for control 
 const int hue_low_max = 180;
 const int hue_high_max = 180;
 int hue_low, hue_high;
